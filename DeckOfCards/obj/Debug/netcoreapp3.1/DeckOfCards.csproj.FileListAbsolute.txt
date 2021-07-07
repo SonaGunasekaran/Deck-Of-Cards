@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\Sona G\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.genruntimeconfig.cache
