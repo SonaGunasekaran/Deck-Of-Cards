@@ -27,7 +27,7 @@ namespace DeckOfCards
             }
 
             Random random = new Random();
-            int k = 1;
+            int k = 0;
 
             while( k <= player.Length)
             {
